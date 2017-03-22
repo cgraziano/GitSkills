@@ -1,0 +1,4 @@
+git pull <remote> <branch> (git pull origin master) #Do this before you change
+anything to ensure that you are changing updated files.
+
+
