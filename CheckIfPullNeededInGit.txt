@@ -1,0 +1,7 @@
+First, 
+	Bring your remote references up to date with
+		git remote update
+
+Then
+	git status -uno 	
+		will tell you whether the branch you are tracking is ahead, behind or has diverged. 
